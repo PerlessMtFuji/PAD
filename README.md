@@ -1,7 +1,7 @@
 **PAD - Prosty Agent Drukowania**
 
 PAD działa w prosty sposób:
-1. Przed uruchomieniem programu należy pobrać i zainstalować [Localsend](https://localsend.org/) oraz [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+1. Przed uruchomieniem programu należy pobrać i zainstalować [LocalSend](https://localsend.org/) oraz [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
 2. Po zainstalowaniu obu programów, w LocalSend należy zmienić następujące ustawienia:
    - **Domyślny folder zapisu**: wybieramy folder, w którym będą zapisywane pliku do druku
    - **Włączenie opcji Szybki Zapis oraz Zakończ Automatycznie**: to uprości i przyspieszy drukowanie plików
