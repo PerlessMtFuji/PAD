@@ -8,6 +8,6 @@ PAD działa w prosty sposób:
 4. Po uruchomieniu programu z pobranego pliku .exe, należy:
    - wybrać folder drukowania tożsamy z folderem wybranym w programie LocalSend
    - przypisać drukarki dostępne na komputerze do danego typu plików, używając do tego rozwijanych list dostępnych drukarek
-6. (Opcjonalnie) Ustawić kadrowanie etykiet (automatyczne przycinanie do rozmiaru A6p w przypadku małej etykiety zapisanej jako A4) oraz automatyzcne usuwanie przesłanych plików po wydrukowaniu (domyślnie włączone)
+6. (Opcjonalnie) Ustawić kadrowanie etykiet (automatyczne przycinanie do rozmiaru A6P w przypadku małej etykiety zapisanej jako A4) oraz automatyczne usuwanie przesłanych plików po wydrukowaniu (domyślnie włączone)
 7. Zapisać konfigurację.
 8. Gotowe! Od teraz, podczas działania programu, każdy wspierany plik wysłany programem LocalSend lub ręcznie przerzucony do folderu ustawionego do obserwowania przez program zostanie automatycznie przesłany do drukarki do wydrukowania.
